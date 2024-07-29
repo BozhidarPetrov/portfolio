@@ -1,0 +1,12 @@
+<div class="col-lg shadow border m-1">
+  <div class="modal-body">
+    <carousel>
+      <slide *ngFor="let picture of cert_pictures"
+        ><img
+          src="{{ picture }}"
+          alt="slide"
+          style="display: block; width: 100%; height: 1047px"
+      /></slide>
+    </carousel>
+  </div>
+</div>
