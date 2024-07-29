@@ -47,7 +47,7 @@ export class ProjectService {
       description_short: 'The app you are browsing right now',
       description_long:
         'My interactive CV. I created it by following an awesome course from softwareengineeringskills9082 in YouTube and of course changed some things to my liking. Great experience - it is kept up to date with my CV, projects and newly aquired skills.',
-      project_link: 'https://github.com',
+      project_link: 'https://github.com/BozhidarPetrov/portfolio',
       pictures: [
         '../../assets/portfolio_1.png',
         '../../assets/portfolio_2.png',
